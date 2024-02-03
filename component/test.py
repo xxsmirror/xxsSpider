@@ -1,2 +1,0 @@
-import pywinauto
-pywinauto.deprecated
